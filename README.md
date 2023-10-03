@@ -1,5 +1,5 @@
 # bun-template
-Template for the bun-based project withE the pug as a template engine.
+Template for the bun-based project with the pug as a template engine.
 
 ### Tech stack
 - [Bun](https://bun.sh/)
