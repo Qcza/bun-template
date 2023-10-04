@@ -1,10 +1,10 @@
 # bun-template
-Template for the bun-based project with the pug as a template engine.
+Template for the bun-based project with the pug as a template engine and tailwind as CSS framework.
 
 ### Tech stack
 - [Bun](https://bun.sh/)
 - [Pug](https://pugjs.org/)
-- [Sass](https://sass-lang.com/)
+- [Tailwind](https://tailwindcss.com/)
 
 To install dependencies:
 
